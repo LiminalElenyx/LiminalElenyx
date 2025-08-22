@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Pink + purple nebula background -->
+<p align="center">
+  <img src="https://i.imgur.com/Lb0w0lO.gif" alt="Nebula Banner" width="100%">
+</p>
 
-<!--
-**LiminalElenyx/LiminalElenyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color:#ff99cc;">✨ Welcome to My Cosmic Garden ✨</h1>
 
-Here are some ideas to get you started:
+<p align="center" style="color:#d8b4fe;">
+  💜🌌 A little patch of the galaxy where I plant ideas, code spells, and starry dreams. 🌌💜
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💫 About Me
+- 🌸 Learning to weave magic in code at my bootcamp
+- 🔮 Building the **Bootcamp Lab** & **Liminal Lab** experiments
+- 🌙 Forever chasing cosmic aesthetics and beautiful logic
+
+---
+
+### 🌌 Current Projects
+- [Bootcamp Lab](#) — My coding sandbox
+- [Liminal Lab](#) — Experiments in playful programming
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/RrV8z2v.gif" alt="Stars Gif" width="60%">
+</p>
