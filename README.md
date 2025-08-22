@@ -1,6 +1,6 @@
 <!-- Pink + purple nebula background -->
 <p align="center">
-  <img src="https://i.imgur.com/Lb0w0lO.gif" alt="Nebula Banner" width="100%">
+  <img src="https://78.media.tumblr.com/tumblr_mbi5ttoQkU1qzmhhxo1_500.gif" alt="Nebula Banner" width="100%">
 </p>
 
 <h1 align="center" style="color:#ff99cc;">✨ Welcome to My Cosmic Garden ✨</h1>
@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/RrV8z2v.gif" alt="Stars Gif" width="60%">
+  <img src="https://media1.tenor.com/images/f83d31e1059301ef744b41907189151f/tenor.gif?itemid=13728967" alt="Stars Gif" width="60%">
 </p>
