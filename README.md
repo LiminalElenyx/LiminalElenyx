@@ -1,6 +1,6 @@
 <!-- Pink Nebula Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4NJl8vI.gif" alt="Pink Nebula Banner" width="100%">
+  <img src="https://tenor.com/view/pink-gif-13791586" alt="Pink Nebula Banner" width="100%">
 </p>
 
 <h1 align="center" style="color:#ff69b4;">🩷 Hi, I’m Liora (LiminalElenyx) 🩷</h1>
