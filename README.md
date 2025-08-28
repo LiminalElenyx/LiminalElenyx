@@ -1,9 +1,9 @@
 <!-- Pink Nebula Banner -->
 <p align="center">
-  <img src="https://tenor.com/view/pink-gif-13791586" alt="Pink Nebula Banner" width="100%">
+  <img src="https://c.tenor.com/ahEhfkqtfMUAAAAC/tenor.gif" alt="Pink Nebula Banner" width="100%">
 </p>
 
-<h1 align="center" style="color:#ff69b4;">🩷 Hi, I’m Liora (LiminalElenyx) 🩷</h1>
+<h1 align="center" style="color:#ff69b4;">🩷 Hi, I’m LiminalElenyx 🩷</h1>
 
 <p align="center" style="color:#ffc0cb;">
   🌸 Budding software developer • 💖 Cosmic aesthetics • 💻 Building apps that care
