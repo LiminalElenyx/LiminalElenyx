@@ -1,13 +1,12 @@
-cat > README.md << 'EOF'
-<!-- Pink + purple nebula background -->
+<!-- Pink Nebula Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/images/f83d31e1059301ef744b41907189151f/tenor.gif?itemid=13728967" alt="Nebula Banner" width="40%">
+  <img src="https://i.imgur.com/4NJl8vI.gif" alt="Pink Nebula Banner" width="100%">
 </p>
 
-<h1 align="center" style="color:#ff99cc;">✨ Welcome to My Cosmic Garden ✨</h1>
+<h1 align="center" style="color:#ff69b4;">🩷 Hi, I’m Liora (LiminalElenyx) 🩷</h1>
 
-<p align="center" style="color:#d8b4fe;">
-  A little patch of the galaxy where I plant ideas, code spells, and starry dreams.
+<p align="center" style="color:#ffc0cb;">
+  🌸 Budding software developer • 💖 Cosmic aesthetics • 💻 Building apps that care
 </p>
 
 ---
@@ -15,7 +14,9 @@ cat > README.md << 'EOF'
 ### 🌸 About Me
 - 🌱 Software dev bootcamp  
 - 🛠 HTML/CSS/JS, Git, Bash  
-- 💖 Building tech that cares
+- 💗 Passionate about well-being tech and delightful, accessible UIs
+
+---
 
 ### 🪄 Current Projects
 - Assisted Living Well-being Logger (CLI)  
@@ -28,5 +29,18 @@ cat > README.md << 'EOF'
 - Resident Well-being Dashboard (charts + sharing)  
 - Cosmic UI Component Library (pink reusable parts)
 
-<p align="center">Made with 🌸 shades of pink 🌸</p>
-EOF
+---
+
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-ff69b4?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-ffc0cb?logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f48fb1?logo=javascript&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-ec407a?logo=gnubash&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-f06292?logo=git&logoColor=white">
+</p>
+
+---
+
+<p align="center" style="color:#ffb6c1;">
+  Made with 🩷 and a whole lot of pink
+</p>
