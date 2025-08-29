@@ -6,28 +6,29 @@
 <h1 align="center" style="color:#ff69b4;">🩷 Hi, I’m LiminalElenyx 🩷</h1>
 
 <p align="center" style="color:#ffc0cb;">
-  🌸 Budding software developer • 💖 Cosmic aesthetics • 💻 Building apps that care
+  🌸 Budding full-stack developer • 💖 Cosmic aesthetics lover • 💻 Self-propelled learner
 </p>
 
 ---
 
 ### 🌸 About Me
 - 🌱 Software dev bootcamp  
-- 🛠 HTML/CSS/JS, Git, Bash  
-- 💗 Passionate about well-being tech and delightful, accessible UIs
+- 🛠 HTML/CSS/JS, Git, Bash enthusiast
+- 💗 Passionate about well-being tech
 
 ---
 
 ### 🪄 Current Projects
-- Assisted Living Well-being Logger (CLI)  
-- About Me (all-pink sparkly site ✨)
+- About Me (personalization to come✨)
+- Tinkering around in the Liminal Lab🌌
 
 ---
 
 ### 🌷 Future Projects
 - Pocket Nutritionist App (holistic tracking)  
-- Resident Well-being Dashboard (charts + sharing)  
 - Cosmic UI Component Library (pink reusable parts)
+- Assisted Living Well-being Logger
+- Resident Well-being Dashboard (charts + sharing)  
 
 ---
 
