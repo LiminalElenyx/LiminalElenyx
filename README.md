@@ -12,21 +12,20 @@
 ---
 
 ### 🌸 About Me
-- 🌱 Software dev bootcamp  
+- 🌱 Web dev bootcamp  
 - 🛠 HTML/CSS/JS, Git, Bash enthusiast
 - 💗 Passionate about well-being tech
 
 ---
 
 ### 🪄 Current Projects
-- About Me (personalization to come✨)
+- The Watchdog journalistic site
 - Tinkering around in the Liminal Lab🌌
 
 ---
 
 ### 🌷 Future Projects
-- Pocket Nutritionist App (holistic tracking)  
-- Cosmic UI Component Library (pink reusable parts)
+- Pocket Nutritionist App (wellness tracking)  
 - Assisted Living Well-being Logger
 - Resident Well-being Dashboard (charts + sharing)  
 
