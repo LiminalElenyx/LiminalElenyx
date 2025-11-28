@@ -6,15 +6,16 @@
 <h1 align="center" style="color:#ff69b4;">🩷 Hi, I’m LiminalElenyx 🩷</h1>
 
 <p align="center" style="color:#ffc0cb;">
-  🌸 Budding full-stack developer • 💖 Cosmic aesthetics lover • 💻 Self-propelled learner
+  🌌 Junior Web & Digital Ops in training | ✨ Budding full-stack dev | 💜 Cosmic aesthetics lover
 </p>
 
 ---
 
-### 🌸 About Me
-- 🌱 Web dev bootcamp  
-- 🛠 HTML/CSS/JS, Git, Bash enthusiast
-- 💗 Passionate about well-being tech
+- 👩🏻‍💻 Web development bootcamp student (HTML, CSS, JavaScript, Git)
+- 🛠️ Junior Web & Digital Operations specialist in training
+- 💜 Passionate about well-being tech, assisted living tools, and story-driven web design
+- 🤝 14+ years of client-centered experience (communication, logistics, trust-building)
+- 🌌 Forever chasing soft cosmic aesthetics and clean UI
 
 ---
 
